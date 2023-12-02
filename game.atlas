@@ -1,0 +1,325 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Severstal Company
+  rotate: false
+  xy: 4, 832
+  size: 1040, 1041
+  orig: 1040, 1041
+  offset: 0, 0
+  index: -1
+NationIcons/Crazy Republic
+  rotate: false
+  xy: 4, 4
+  size: 1024, 820
+  orig: 1024, 820
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Moskovskiy Gosudarstvennyy Universitet
+  rotate: false
+  xy: 1031, 831
+  size: 900, 889
+  orig: 900, 889
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nornikel Company
+  rotate: false
+  xy: 1031, 4
+  size: 819, 819
+  orig: 819, 819
+  offset: 0, 0
+  index: -1
+UnitIcons/Moskva
+  rotate: false
+  xy: 4, 701
+  size: 1019, 1019
+  orig: 1019, 1019
+  offset: 0, 0
+  index: -1
+UnitIcons/T-90
+  rotate: false
+  xy: 4, 12
+  size: 920, 681
+  orig: 920, 681
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Baiterek
+  rotate: false
+  xy: 1145, 337
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Big Dick
+  rotate: false
+  xy: 464, 157
+  size: 326, 325
+  orig: 326, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Brain Slaughterhouse
+  rotate: false
+  xy: 1479, 397
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Chrome Steel Company
+  rotate: false
+  xy: 1478, 64
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kazakh National University
+  rotate: false
+  xy: 798, 262
+  size: 326, 325
+  orig: 326, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Khan Shatyr
+  rotate: false
+  xy: 1145, 670
+  size: 326, 325
+  orig: 326, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Monument to Lenin
+  rotate: false
+  xy: 4, 490
+  size: 725, 725
+  orig: 725, 725
+  offset: 0, 0
+  index: -1
+BuildingIcons/Park Gorkogo
+  rotate: false
+  xy: 4, 1223
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+BuildingIcons/Taraz Metallurgical Plant
+  rotate: false
+  xy: 1479, 730
+  size: 326, 325
+  orig: 326, 325
+  offset: 0, 0
+  index: -1
+NationIcons/Russian Federation
+  rotate: false
+  xy: 1370, 1511
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+NationIcons/The Republic of Kazakhstan
+  rotate: false
+  xy: 812, 1003
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitIcons/BTR-80
+  rotate: false
+  xy: 737, 595
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Berkut
+  rotate: false
+  xy: 1132, 4
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/Buratino
+  rotate: false
+  xy: 4, 30
+  size: 452, 452
+  orig: 452, 452
+  offset: 0, 0
+  index: -1
+UnitIcons/Ka-52
+  rotate: false
+  xy: 812, 1523
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/T-72KZ East
+  rotate: false
+  xy: 1332, 1063
+  size: 440, 440
+  orig: 440, 440
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Crazy Park
+  rotate: false
+  xy: 4, 670
+  size: 325, 326
+  orig: 325, 326
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gazprom Company
+  rotate: false
+  xy: 4, 4
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/KazMunaiGaz Company
+  rotate: false
+  xy: 670, 671
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kazakmys Corporation
+  rotate: false
+  xy: 337, 5
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mausoleum
+  rotate: false
+  xy: 1003, 671
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mole Company
+  rotate: false
+  xy: 670, 5
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+BuildingIcons/Oil pump
+  rotate: false
+  xy: 1336, 671
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+TileSetsFantasyHexUnits/BTR-80
+  rotate: false
+  xy: 1669, 635
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSetsFantasyHexUnits/Buratino
+  rotate: false
+  xy: 2002, 968
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSetsFantasyHexUnits/Ka-52
+  rotate: false
+  xy: 1336, 83
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSetsFantasyHexUnits/Moskva
+  rotate: false
+  xy: 1576, 302
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSetsFantasyHexUnits/T-90
+  rotate: false
+  xy: 1669, 599
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Destroyer
+  rotate: false
+  xy: 4, 337
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/FM-21 Hail
+  rotate: false
+  xy: 337, 671
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/Goose
+  rotate: false
+  xy: 337, 338
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/Khan
+  rotate: false
+  xy: 670, 338
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/Mosquito
+  rotate: false
+  xy: 1003, 338
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/National Guard
+  rotate: false
+  xy: 1336, 119
+  size: 232, 211
+  orig: 232, 211
+  offset: 0, 0
+  index: -1
+UnitIcons/Rat
+  rotate: false
+  xy: 1003, 5
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/Ravager
+  rotate: false
+  xy: 1336, 338
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+UnitIcons/Slap
+  rotate: false
+  xy: 1669, 671
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
