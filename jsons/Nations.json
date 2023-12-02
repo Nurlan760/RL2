@@ -1,0 +1,55 @@
+[
+  {
+    "name": "The Republic of Kazakhstan",
+    "leaderName": "Kassym Zhomart Tokayev"
+    "adjective": ["President"],
+    "preferredVictoryType": "Cultural", "Domination"
+    "introduction": "Hello, I am President of the Republic of Kazakhstan - Kassym Zhomart Tokayev. Nice to meet you.",
+    "startIntroPart1": " ",
+    "neutralHello": "Salaam alaikum",
+    "hateHello": "What do you want?",
+    "attacked": "You have made your choice, I will destroy you.",
+    "declaringWar": "I need new lands for my nations",
+    "tradeRequest": "How do you like this proposal?",
+    "outerColor": [0, 255, 255],
+    "innerColor": [255, 255, 0],
+    "uniqueName": "The wealth of the earth",
+    "uniques": ["[+2 Production] from every Strategic resourse", "[Double quantity] of [Horses produced]", "[Double quantity] of [Oil produced]", "[Double quantity] of [Uranium produced]""],
+    "cities": ["Astana", "Almaty", "Shymkent", "Taraz", "Karaganda", "Aktau"]
+  },
+  {
+    "name": "Russian Federation",
+    "leaderName": "Vladimir Putin",
+    "adjective": ["President"],
+    "preferredVictoryType": "Cultural",
+    "startIntroPart1": " ",
+    "neutralHello": "Hello",
+    "hateHello": "You again?",
+    "attacked": "I won't sit idly by either!",
+    "declaringWar": "You didn't meet my expectations.",
+    "tradeRequest": "What do you mean about this?",
+    "outerColor": [0, 0, 0],
+    "innerColor": [210, 105, 30],
+    "uniqueName": "Siberian Riches",
+    "uniques": ["[+2 Production] from every [Strategic resource]", "[Double quantity] of [Horses produced]", "[Double quantity] of [Iron produced]", "[Double quantity] of [Uranium produced]"],
+    "cities": ["Moscow", "Yekaterinburg", "Saint Petersburg", "Minsk", "Vladivostok", "Chelyabinsk"]
+  },
+  {
+  "name": "Crazy Republic",
+  "leaderName": "Crazy Rocket"
+  "adjective": ["King"],
+  "preferredVictoryType": "Domination"
+  "introduction": "Hi, I am the King of these crazy lands.",
+  "startIntroPart1": " ",
+  "neutralHello": "Hey Ya",
+  "hateHello": "What you need?",
+  "attacked": "You're a Rat.",
+  "declaringWar": "You're fucked.",
+  "tradeRequest": "What do you say?",
+  "outerColor": [0, 0, 0],
+  "innerColor": [255, 0, 0],
+  "uniqueName": "Crazy world",
+  "uniques": ["[+10 Happiness]", "[+5 Culture]", "[+10 Gold]", "[+5 Science]"],
+  "cities": ["Crazy Capital", "Crazy city", "Awesome town", "Toxic city", "Gloomy castle", "Crazy wind"]
+ },
+]
